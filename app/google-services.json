@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620671318378",
+    "project_id": "test-app-83ffb",
+    "storage_bucket": "test-app-83ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620671318378:android:675931a3bdff240f4f0d13",
+        "android_client_info": {
+          "package_name": "com.tankarsolutions.finddotsbraintraininggame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620671318378-2644ce8popnqklsbjqbtvr8pqs3ivlqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANGIutiew0sqAGBQJcuQBgkDe-4MQeeSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620671318378-2644ce8popnqklsbjqbtvr8pqs3ivlqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

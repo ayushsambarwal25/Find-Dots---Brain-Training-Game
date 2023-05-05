@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Find Dots - Brain Training Game</string>
+    <string name="stats">Find Dots</string>
+    <string name="total_games_played">Total games played</string>
+    <string name="total_time">Total time</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="easy">Easy</string>
+    <string name="games_played">Games played :</string>
+    <string name="average_accuracy">Average Accuracy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="expert">Expert</string>
+    <string name="taps_available">Taps : </string>
+    <string name="play">PLAY</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="get_1_tap_extra">+1 Tap</string>
+
+    <string name="default_notification_channel_id">finding_dots_3008</string>
+    <string name="admobAppId">ca-app-pub-3664731190378919~6547122046</string>
+    <string name="game_1_ads_full">ca-app-pub-3664731190378919/5398278638</string>
+    <string name="game_2_ads_full">ca-app-pub-3664731190378919/3841901807</string>
+    <string name="game_3_ads_full">ca-app-pub-3664731190378919/1314976660</string>
+    <string name="game_4_ads_full">ca-app-pub-3664731190378919/6300296768</string>
+    <string name="game_1_ads_full_reward">ca-app-pub-3664731190378919/7688813320</string>
+    <string name="game_2_ads_full_reward">ca-app-pub-3664731190378919/2644122785</string>
+    <string name="game_3_ads_full_reward">ca-app-pub-3664731190378919/3749568314</string>
+    <string name="game_4_ads_full_reward">ca-app-pub-3664731190378919/7421806740</string>
+    <string name="common_banner">ca-app-pub-3664731190378919/1123404979</string>
+
+</resources>

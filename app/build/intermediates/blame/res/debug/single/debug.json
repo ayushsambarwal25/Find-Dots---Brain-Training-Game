@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/layout_game_info_dialog.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/layout/game_info_dialog.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/font_open_sans_bold.ttf.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/font/open_sans_bold.ttf"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notification.webp.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable-xxhdpi/ic_notification.webp"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/font_open_sans_semibold.ttf.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/font/open_sans_semibold.ttf"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable_ic_dot.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable/ic_dot.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/layout_fragment_dashboard.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/raw_wronganswer.wav.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/raw/wronganswer.wav"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/layout_game_result_dialog.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/layout/game_result_dialog.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_notification.webp.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable-mdpi/ic_notification.webp"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notification.webp.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable-xhdpi/ic_notification.webp"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/layout_grid_item.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/raw_stoptimers.mp3.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/raw/stoptimers.mp3"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable_ic_lock.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/layout_fragment_game.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/layout/fragment_game.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable_circular_progressbar.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable/circular_progressbar.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/raw_rightanswer.wav.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/raw/rightanswer.wav"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_notification.webp.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable-hdpi/ic_notification.webp"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable-nodpi_ic_splash.webp.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable-nodpi/ic_splash.webp"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_notification.webp.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable-xxxhdpi/ic_notification.webp"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/navigation_frag_navigation.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/navigation/frag_navigation.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/layout_exit_dialog.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/layout/exit_dialog.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable_progress_easy.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable/progress_easy.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable_splash_background.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable/splash_background.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/drawable_easy_card_dot.xml.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/drawable/easy_card_dot.xml"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/build/intermediates/res/merged/debug/font_open_sans.ttf.flat",
+        "source": "/Users/ayushsabharwal/Downloads/Find-Dots--main/app/src/main/res/font/open_sans.ttf"
+    }
+]

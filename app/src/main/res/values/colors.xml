@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#fff</color>
+    <color name="red">#F44336</color>
+    <color name="easy_card">#673AB7</color>
+    <color name="medium_card">#3F51B5</color>
+    <color name="hard_card">#2196F3</color>
+    <color name="expert_card">#FF5722</color>
+    <color name="multi_player_card">#4CAF50</color>
+    <color name="black">#000</color>
+
+</resources>
